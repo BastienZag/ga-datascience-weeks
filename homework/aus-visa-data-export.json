@@ -1,0 +1,107 @@
+{
+    "users": [{
+            "type": "work",
+            "Permanently": 0,
+            "Sponsored": 1,
+            "age": "18 to 30",
+            "country": "France",
+            "visa": 457
+        },
+        {
+            "type": "work",
+            "Permanently": 1,
+            "Sponsored": 0,
+            "age": "18 to 30",
+            "country": "Germany",
+            "visa": 189
+        },
+        {
+            "type": "work",
+            "Permanently": 1,
+            "Sponsored": 0,
+            "age": 32,
+            "country": "France",
+            "visa": 189
+        },
+        {
+            "type": "holiday",
+            "Permanently": 0,
+            "Sponsored": 0,
+            "age": 35,
+            "country": "Algeria",
+            "visa": 600
+        },
+        {
+            "type": "holiday",
+            "Permanently": 0,
+            "Sponsored": 0,
+            "age": 42,
+            "country": "France",
+            "visa": 600
+        },
+        {
+            "type": "holiday",
+            "Permanently": 0,
+            "Sponsored": 0,
+            "age": 20,
+            "country": "Germany",
+            "visa": 600
+        },
+        {
+            "type": "holiday",
+            "Permanently": 0,
+            "Sponsored": 0,
+            "age": 20,
+            "country": "Germany",
+            "visa": 600
+        },
+        {
+            "type": "holiday",
+            "Permanently": 0,
+            "Sponsored": 0,
+            "age": 20,
+            "country": "Brazil",
+            "visa": 600
+        },
+        {
+            "type": "holiday",
+            "Permanently": 0,
+            "Sponsored": 0,
+            "age": 24,
+            "country": "France",
+            "visa": 417
+        },
+        {
+            "type": "holiday",
+            "Permanently": 0,
+            "Sponsored": 0,
+            "age": 19,
+            "country": "Germany",
+            "visa": 417
+        },
+        {
+            "type": "holiday",
+            "Permanently": 0,
+            "Sponsored": 0,
+            "age": 22,
+            "country": "Germany",
+            "visa": 417
+        },
+        {
+            "type": "holiday",
+            "Permanently": 0,
+            "Sponsored": 0,
+            "age": 29,
+            "country": "Germany",
+            "visa": 417
+        },
+        {
+            "type": "holiday",
+            "Permanently": 0,
+            "Sponsored": 0,
+            "age": 19,
+            "country": "France",
+            "visa": 417
+        }
+    ]
+}
